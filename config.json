@@ -9,7 +9,7 @@
 }
   "custom_category": [
     {
-      "name": "华语",
+      "name": "query",
       "type": "tv",
       "query": "热门、美剧、英剧、韩剧、日剧、国产剧、港剧、日本动画、综艺、纪录片、国产动漫"
     }
