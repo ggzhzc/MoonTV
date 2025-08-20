@@ -85,6 +85,10 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
+    "didiziyuan": {
+      "api": "https://api.ddapi.cc/api.php/provide/vod",
+      "name": "滴滴资源网"
+    },
     "shenlin": {
       "api": "https://slapibf.com/api.php/provide/vod",
       "name": "森林资源站"
