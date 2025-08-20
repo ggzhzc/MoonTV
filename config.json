@@ -80,18 +80,6 @@
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
-    },
-    "xiaomaomi": {
-      "api": "https://zy.xmm.hk/api.php/provide/vod",
-      "name": "小猫咪资源"
-    },
-    "didiziyuan": {
-      "api": "https://api.ddapi.cc/api.php/provide/vod",
-      "name": "滴滴资源网"
-    },
-    "shenlin": {
-      "api": "https://slapibf.com/api.php/provide/vod",
-      "name": "森林资源站"
     }
   },
   "custom_category": [
