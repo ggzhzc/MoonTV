@@ -86,7 +86,7 @@
       "name": "小猫咪资源"
     },
     "shenlin": {
-      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "api": "https://slapibf.com/api.php/provide/vod",
       "name": "森林资源站"
     }
   },
